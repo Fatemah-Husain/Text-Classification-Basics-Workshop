@@ -1,7 +1,10 @@
-# Text-Classification-Basics-Workshop:
+# Text Classification Basics Workshop:
 
+This repository includes the materials of the "Text Classification for the Arabic Language workshop"
+https://gdg.community.dev/events/details/google-gdg-kuwait-presents-text-classification-for-the-arabic-language/
 
-This repository includes the materials of the Text Classification for the Arabic Language workshop https://gdg.community.dev/events/details/google-gdg-kuwait-presents-text-classification-for-the-arabic-language/
+# Workshop Recording:
+https://youtu.be/dnK5lqpyEPg
 
 # Citation:
 Please use the follwing citation if you use any of the content in this repository in your work:
